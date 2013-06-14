@@ -16,10 +16,6 @@ The Industrial Relation Subcommittee
 - v2. July 31, 2012
 - v1. September 10, 2005
 
-
-TABLE OF CONTENTS
-=================
-
 .. toctree::
     :maxdepth: 2
 
