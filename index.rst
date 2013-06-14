@@ -3,9 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Industry Relations Officer Guidebook
-====================================
-
 Prepared by
 
 The Industrial Relation Subcommittee
@@ -15,6 +12,9 @@ The Industrial Relation Subcommittee
 - v3. March/June, 2013
 - v2. July 31, 2012
 - v1. September 10, 2005
+
+Industry Relations Officer Guidebook
+====================================
 
 .. toctree::
     :maxdepth: 2
