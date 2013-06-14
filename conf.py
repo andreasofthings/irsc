@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'IRO Manual'
-copyright = u'2013, Andreas Neumeier'
+copyright = u'2013, Industry Relations Subcommittee, Andreas Neumeier'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

@@ -10,7 +10,8 @@ The functions of IRO are summarized as follows:
 2. Guide and Support
   Provide guidelines and support to the Section, Chapter and Student Branch representatives and others as required
 
-3. Distribute information regarding IEEE activities, useful when establishing industry contacts. 
+3. Distribute information
+  Distribute information regarding IEEE activities, useful when establishing industry contacts. 
 
 4. Identify local needs in order to allow IEEE to adapt its offerings of standard – and/or tailored products and services. 
 

@@ -6,13 +6,9 @@
 Industry Relations Officer Guidebook
 ====================================
 
-Industrial Relations Officer Guide Book
----------------------------------------
-
-
 Prepared by
 
-The Industrial Relation Sub Committee
+The Industrial Relation Subcommittee
 
 *IEEE Region 8*
 
@@ -23,8 +19,6 @@ The Industrial Relation Sub Committee
 
 TABLE OF CONTENTS
 =================
-
-Contents:
 
 .. toctree::
     :maxdepth: 2
