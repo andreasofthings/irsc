@@ -19,6 +19,7 @@ Industry Relations Officer Guidebook
 .. toctree::
     :maxdepth: 2
 
+    README
     purpose
     goals
     scope
