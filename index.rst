@@ -5,13 +5,14 @@
 
 Prepared by
 
-The Industrial Relation Subcommittee
+**The Industrial Relation Subcommittee**
 
-*IEEE Region 8*
+*IEEER8_ Region 8*
 
-- v3. March/June, 2013
-- v2. July 31, 2012
-- v1. September 10, 2005
+- v 1.3.1 July 2013
+- v 1.3 March/June, 2013
+- v 1.2 July 31, 2012
+- v 1.0 September 10, 2005
 
 Industry Relations Officer Guidebook
 ====================================
@@ -20,21 +21,26 @@ Industry Relations Officer Guidebook
     :maxdepth: 2
 
     README
+    general
     purpose
     goals
     scope
     functions
-    general
     benefits
     activities
     appendices
 
+Links and References
+====================
+
+.. _IEEE: http://www.ieee.org
+.. _IEEER8: http://www.ieeer8.org 
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
+# * :ref:`genindex`
+# * :ref:`modindex`
 * :ref:`search`
 
