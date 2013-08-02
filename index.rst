@@ -36,6 +36,15 @@ Links and References
 .. _IEEE: http://www.ieee.org
 .. _IEEER8: http://www.ieeer8.org 
 
+Glossary
+========
+IRSC:: Industry Relations Sub Committee
+IRO:: Industry Relations Officer
+R8:: IEEE Region 8
+TA:: Technical Activities
+SA:: Standards Association
+MD:: Membership Development
+
 
 Indices and tables
 ==================

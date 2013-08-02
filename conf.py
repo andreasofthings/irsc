@@ -253,7 +253,7 @@ texinfo_documents = [
 # Bibliographic Dublin Core info.
 epub_title = u'IRO Manual'
 epub_author = u'Andreas Neumeier'
-epub_publisher = u'Andreas Neumeier'
+epub_publisher = u'IEEE Region 8'
 epub_copyright = u'2013, Andreas Neumeier'
 
 # The language of the text. It defaults to the language option
@@ -303,4 +303,4 @@ epub_copyright = u'2013, Andreas Neumeier'
 #epub_show_urls = 'inline'
 
 # If false, no index is generated.
-#epub_use_index = True
+epub_use_index = True
