@@ -4,7 +4,15 @@ Industry Relations Officer Guidebook
 About IEEE and R8
 -----------------
 
-IEEE is the worlds largest organization of engineers. R8 is the organizational unit within IEEE covering Europe, Middle East, Africa and all of Russia.
+
+
+IEEE is the world's largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, technology standards, and professional and educational activities.
+
+IEEE, pronounced "Eye-triple-E," stands for the Institute of Electrical and Electronics Engineers. The association is chartered under this name and it is the full legal name. To learn more about the association's name, please read the [History of IEEE|http://www.ieee.org/about/ieee_history.html].
+
+See also: [About IEEE|http://www.ieee.org/about/index.html]
+
+R8 is the organizational unit within IEEE covering Europe, Middle East, Africa and all of Russia.
 
 About the IEEE R8 Industry Relations Subcommittee
 -------------------------------------------------
