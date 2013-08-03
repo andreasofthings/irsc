@@ -7,7 +7,7 @@ Prepared by
 
 **The Industrial Relation Subcommittee**
 
-*IEEER8_ Region 8*
+*IEEE Region 8*
 
 - v 1.3.1 July 2013
 - v 1.3 March/June, 2013
@@ -21,8 +21,8 @@ Industry Relations Officer Guidebook
     :maxdepth: 2
 
     README
-    general
-    purpose
+    General
+    Purpose
     goals
     scope
     functions
