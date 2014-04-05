@@ -1,4 +1,4 @@
-3.0	Scope:  
+Scope
 =====
 
 The scope of IRO duties is summarized as follows:
