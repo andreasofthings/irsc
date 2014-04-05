@@ -9,6 +9,7 @@ Prepared by
 
 *IEEE Region 8*
 
+- v 1.3.2 April 2014
 - v 1.3.1 July 2013
 - v 1.3 March/June, 2013
 - v 1.2 July 31, 2012
@@ -21,8 +22,8 @@ Industry Relations Officer Guidebook
     :maxdepth: 2
 
     README
-    General
-    Purpose
+    general
+    purpose
     goals
     scope
     functions
@@ -30,20 +31,23 @@ Industry Relations Officer Guidebook
     activities
     appendices
 
-Links and References
-====================
-
-.. _IEEE: http://www.ieee.org
-.. _IEEER8: http://www.ieeer8.org 
-
 Glossary
 ========
-IRSC:: Industry Relations Sub Committee
-IRO:: Industry Relations Officer
-R8:: IEEE Region 8
-TA:: Technical Activities
-SA:: Standards Association
-MD:: Membership Development
+
+.. glossary::
+
+  IRSC
+    Industry Relations Sub Committee
+  IRO
+    Industry Relations Officer
+  R8
+    IEEE Region 8
+  TA
+    Technical Activities
+  SA
+    Standards Association
+  MD
+    Membership Development
 
 
 Indices and tables

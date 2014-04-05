@@ -1,18 +1,19 @@
 Industry Relations Officer Guidebook
 ====================================
 
+The Industry Relations Subcommittee, further IRSC, prepared this document to guide new and existing Industry Realtions Officers in their role.
+
 About IEEE and R8
 -----------------
 
 
-
 IEEE is the world's largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, technology standards, and professional and educational activities.
 
-IEEE, pronounced "Eye-triple-E," stands for the Institute of Electrical and Electronics Engineers. The association is chartered under this name and it is the full legal name. To learn more about the association's name, please read the [History of IEEE|http://www.ieee.org/about/ieee_history.html].
+IEEE, pronounced "Eye-triple-E," stands for the Institute of Electrical and Electronics Engineers. The association is chartered under this name and it is the full legal name. To learn more about the association's name, please read the `History of IEEE`_.
 
-See also: [About IEEE|http://www.ieee.org/about/index.html]
+See also: `About IEEE`_.
 
-R8 is the organizational unit within IEEE covering Europe, Middle East, Africa and all of Russia.
+R8 is the organizational unit within IEEE covering Europe, Middle East, Africa and all of Russia. Their home on the internet can be found at `IEEER8`_.
 
 About the IEEE R8 Industry Relations Subcommittee
 -------------------------------------------------
@@ -35,4 +36,7 @@ https://iro-manual.readthedocs.org/en/latest/
 
 For contributions please either contact the author_ or send a pull request to https://github.com/aneumeier/irsc
 
-
+.. _About IEEE: http://www.ieee.org/about/index.html
+.. _History of IEEE: http://www.ieee.org/about/ieee_history.html
+.. _IEEER8: http://www.ieeer8.org
+.. _author: andreas@neumeier.org

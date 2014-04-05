@@ -28,7 +28,7 @@ Reports
 Half-year meeting/activities reports outlining businesses transacted will be transmitted to R8 IRSC-Chair and to the Section Chair.
 
 Role Description Update
-----------------------
+-----------------------
 
 The role description shall be reviewed every three years by the IRSC.
 Changes to this Charter must conform to IEEE Section Bylaws and be approved by the Section Executive Committee.
